@@ -1,4 +1,4 @@
-declare module "@foxglove/wasm-zstd" {
+declare module "@lichtblick/wasm-zstd" {
   export const isLoaded: Promise<boolean>;
   export function compressBound(size: number): number;
   export function compress(buffer: Uint8Array, compressionLevel?: number): Buffer;
