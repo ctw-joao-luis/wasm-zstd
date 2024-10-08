@@ -2,7 +2,7 @@
 
 https://github.com/facebook/zstd compiled to WebAssembly and exposed as a high-level TypeScript/JavaScript API . PRs welcome!
 
-## API 1
+## API 2
 
 `@lichtblick/wasm-zstd` exports:
 
